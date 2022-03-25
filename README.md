@@ -1,2 +1,2 @@
 # Hello-World
-The first repository of my coding
+The first repository of my codes
